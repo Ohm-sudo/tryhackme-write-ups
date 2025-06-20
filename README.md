@@ -17,6 +17,6 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 
 | Status       | Room Name           | Category        |
 |:------------:|---------------------|-----------------|
-| ☐  | CyberChef: The Basics | Introductory |
+| 🔄  | CyberChef: The Basics | Introductory |
 | ☑️ |   |    |
-
+| ☐ |   |    |
