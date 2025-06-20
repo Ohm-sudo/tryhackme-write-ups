@@ -17,6 +17,6 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 
 | Status       | Room Name           | Category        |
 |:------------:|---------------------|-----------------|
-| 🔄  | CyberChef: The Basics | Introductory |
-| ☑️ |   |    |
+| ☑️  | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/CyberChef%3A%20The%20Basics.md">CyberChef: The Basics</a> | Introductory |
+| 🔄 | Cryptography Basics  | Introductory |
 | ☐ |   |    |
