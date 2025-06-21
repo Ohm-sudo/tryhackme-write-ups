@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Logo" width="500"/><br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ohmsudo.png" alt="Ohmsudo TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ohmsudo.png?update=1" alt="Ohmsudo TryHackMe Badge" />
 </p>
 
 ##
