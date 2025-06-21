@@ -18,5 +18,7 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 | Status       | Room Name           | Category        |
 |:------------:|---------------------|-----------------|
 | ☑️  | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/CyberChef%3A%20The%20Basics.md">CyberChef: The Basics</a> | Introductory |
-| 🔄 | Cryptography Basics  | Introductory |
-| ☐ |   |    |
+| ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Cryptography%20Basics.md">Cryptography Basics</a>  | Introductory |
+| 🔄 | Bypass Really Simple Security  |  Introductory  |
+| 🔄 | SOC Fundamentals  |  Introductory  |
+| 🔄 | Networking Concepts  |  Introductory  |
