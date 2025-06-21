@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Logo" width="500"/><br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ohmsudo.png?update=1" alt="Ohmsudo TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ohmsudo.png" alt="Ohmsudo TryHackMe Badge" />
 </p>
 
 ##
@@ -19,6 +19,6 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 |:------------:|---------------------|-----------------|
 | ☑️  | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/CyberChef%3A%20The%20Basics.md">CyberChef: The Basics</a> | Introductory |
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Cryptography%20Basics.md">Cryptography Basics</a>  | Introductory |
-| 🔄 | Bypass Really Simple Security  |  Introductory  |
+| 🔄 | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Bypass%20Really%20Simple%20Security.md">Bypass Really Simple Security</a>  |  Introductory  |
 | 🔄 | SOC Fundamentals  |  Introductory  |
 | 🔄 | Networking Concepts  |  Introductory  |
