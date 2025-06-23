@@ -21,4 +21,10 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Cryptography%20Basics.md">Cryptography Basics</a>  | Introductory |
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Bypass%20Really%20Simple%20Security.md">Bypass Really Simple Security</a>  |  Introductory  |
 | 🔄 | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/SOC%20Fundamentals.md">SOC Fundamentals</a>  |  Introductory  |
-| 🔄 | Networking Concepts  |  Introductory  |
+| 🔄 | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Networking%20Concepts.md">Networking Concepts</a>  |  Introductory  |
+| 🔄 | Web Application Basics | Introductory |
+| 🔄 | Search Skills | Introductory |
+| 🔄 | Windows Command Line | Introductory |
+| 🔄 | Hosted Hypervisors | Introductory |
+| 🔄 | Enumeration & Brute Force | Introductory |
+| 🔄 | Introduction to CryptOps | Introductory |
