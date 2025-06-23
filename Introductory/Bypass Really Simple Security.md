@@ -61,7 +61,8 @@ The answer can be found in the previous task. The skip_onboarding method accepts
   - Analyze authentication logs.
   - SIEM query.
     - i.e., ```method:POST AND path:"/reallysimplessl/v1/two_fa/skip_onboarding"```
--  Additional mitigation measures to secure your website:
+
+- Additional mitigation measures to secure your website:
   - Apply official patch.
   - Update SIEM alerts.
   - Implement proper input validation and rigorous error handling for all API endpoints.
