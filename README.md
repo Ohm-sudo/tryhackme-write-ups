@@ -1,4 +1,4 @@
-# TryHackMe Writeups
+# TryHackMe Write-ups
 
 <p align="center">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Logo" width="500"/><br><br>
