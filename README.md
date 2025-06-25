@@ -25,7 +25,7 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Web%20Application%20Basics.md">Web Application Basics</a> | Introductory |
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Search%20Skills.md">Search Skills</a> | Introductory |
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Windows%20Command%20Line.md">Windows Command Line</a> | Introductory |
-| 🔄 | Hypervisor Internals | Introductory |
+| 🔄 | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Hypervisor%20Internals.md">Hypervisor Internals</a> | Introductory |
 | 🔄 | Hosted Hypervisors | Introductory |
 | 🔄 | Enumeration & Brute Force | Introductory |
 | 🔄 | Introduction to CryptOps | Introductory |
