@@ -28,4 +28,4 @@ This is mainly for me to document my learning progress on TryHackMe. Feel free t
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Hypervisor%20Internals.md">Hypervisor Internals</a> | Introductory |
 | ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Hosted%20Hypervisors.md">Hosted Hypervisors</a> | Introductory |
 | 🔄 | Enumeration & Brute Force | Introductory |
-| 🔄 | Introduction to CryptOps | Introductory |
+| ☑️ | <a href="https://github.com/Ohm-sudo/tryhackme-write-ups/blob/main/Introductory/Introduction%20to%20CryptOps.md">Introduction to CryptOps</a> | Introductory |
